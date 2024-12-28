@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+a {
+    
+    margin: 70px;
+    color: black;
+}
+p {
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+h1 {
+    text-align:center;
+}
+img {
+    margin: 20px;
+    border-left: 7px dotted black;
+}
+.a2{
+    margin: 0px;
+    color: blue;
+}
+footer p{
+    border-radius: 0px;
+     background-color: white;
+    
+    
+}
+footer {
+    background-color: black;
+    border: 1px solid black;
+}
+
